@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Direitos Autorais</a>
+  <a href="#memo-direitos-autorais">Direitos Autorais</a>
 </p>
 
 <br>
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/JkJzlMrZ9sIm7JZZgwwp7L/Calculadora?type=design&node-id=442%3A3&mode=design&t=88EetjMC9w1KtR2y-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Direitos Autorais
+## :direitos-autorais: Direitos Autorais
 
 Esse projeto foi feito por Luan Oliveira dos Santos para estudo Educacional
 
